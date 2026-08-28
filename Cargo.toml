@@ -4,9 +4,9 @@ version = "1.0.5"
 edition = "2024"
 
 [dependencies]
-macroquad = { version = "0.4.14" }
-rayon = "1.11.0"
-itertools = "0.14.0"
+macroquad = "0.4"
+rayon = "1.12"
+itertools = "0.15"
 
 
 # Profile for profiling
